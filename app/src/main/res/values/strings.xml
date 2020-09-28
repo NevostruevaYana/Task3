@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="to_second">TO SECOND</string>
+    <string name="to_first">TO FIRST</string>
+    <string name="to_third">TO THIRD</string>
+    <string name="activity1">ACTIVITY 1</string>
+    <string name="activity2">ACTIVITY 2</string>
+    <string name="activity3">ACTIVITY 3</string>
+    <string name="activity_about">ACTIVITY ABOUT</string>
+    <string name="about">YOU SWITCHED TO ACTIVITY ABOUT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
